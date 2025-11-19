@@ -1,5 +1,4 @@
 from bilibili_api import search,sync
-from bilibili_api.search import SearchObjectType, OrderUser
 from mcp.server.fastmcp import FastMCP
 
 mcp = FastMCP("Bilibili Mcp Server")
